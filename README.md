@@ -28,10 +28,9 @@ float padding1 = HitoSafeAreaHeight;
 #define HitoSafeAreaHeight (HitoStatusHeight>20?34:0)
 //底部高度
 #define HitoBottomHeight (49+HitoSafeAreaHeight)
-
 ```
 
-
+效果图;
 ![效果图](Result.gif)
 
 
